@@ -33,8 +33,11 @@ You can modify to define your own graph structure:
 python-repl
 
 0 1
+
 0 2
+
 1 2
+
 1 3
 ...
 Each line represents an edge between two nodes.
